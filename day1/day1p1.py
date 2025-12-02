@@ -16,4 +16,4 @@ with open("input.txt", "r") as fd:
             passwd += 1
 
 
-print(passwd)
+print(f"Final position: {pos}. Password: {passwd}")
